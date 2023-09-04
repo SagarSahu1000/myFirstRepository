@@ -1,1 +1,2 @@
-This s file2.txt 
+This s file2.txt
+This line was added in our local git repo 
